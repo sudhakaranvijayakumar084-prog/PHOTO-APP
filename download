@@ -1,0 +1,7 @@
+.bin/
+bin/
+.buildozer/
+__pycache__/
+*.pyc
+.DS_Store
+studio_errors.log
